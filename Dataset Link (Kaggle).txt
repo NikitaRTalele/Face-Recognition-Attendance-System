@@ -1,0 +1,5 @@
+Face Recognition(Face Recognition):
+https://www.kaggle.com/datasets/talelenikita/face-recognition
+
+Liveness Detection(Antispoofing Dataset):
+https://www.kaggle.com/datasets/talelenikita/antispoofing-dataset
